@@ -72,4 +72,5 @@ public class OrderItem {
     public int hashCode() {
         return id != null ? id.hashCode() : 0;
     }
+
 }
